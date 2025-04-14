@@ -28,7 +28,14 @@ const multiply = function(array) {
 
 };
 
-const power = function() {
+const power = function(num1,num2) {
+  var power = num1
+  for (let i = 1; i < num2; i++) {
+    power = power * num1
+    
+    
+  }
+  return power
 	
 };
 
