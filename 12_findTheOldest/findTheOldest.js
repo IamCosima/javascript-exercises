@@ -35,7 +35,6 @@ const findTheOldest = function(array) {
     }) 
     console.log(age)
     return age
-    con
 };
 
 // Do not edit below this line
